@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @djor-aleksa
 - 👀 I’m interested in software architecture, web technologies and solving challenging problems
-- 🌱 I’m currently learning C# .NET and Flutter
-- 💞️ I’m looking for relocation job in EU
+- 🌱 I’m currently learning Python and have an interest in Flutter
 - 📫 Reach me by sending e-mail to djor.aleksa@gmail.com
 
 <!---
