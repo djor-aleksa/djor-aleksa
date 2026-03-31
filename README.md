@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aleksandar, Software engineer from Niš, Serbia
+- 👋 Hi, I’m Aleksandar, Software engineer from Belgrade, Serbia
 - 👀 I’m interested in software architecture, web technologies and solving challenging enineering problems
-- 🌱 I’m currently learning Python and have an interest in Flutter
+- 🌱 My primary technology is .NET, but I’m also Python enthusiast and have an interest in AI
 - 📫 Reach me by sending e-mail to djor.aleksa@gmail.com
 
 <!---
